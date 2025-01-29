@@ -1,0 +1,14 @@
+
+import { Background } from './Background';
+import { Content } from './Content';
+import { Footer } from './Footer';
+
+export const Hero = () => {
+  return (
+    <section className="relative min-h-screen overflow-hidden">
+      <Background />
+      <Content />
+      <Footer />
+    </section>
+  );
+};

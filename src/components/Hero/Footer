@@ -1,0 +1,28 @@
+
+import { motion } from 'framer-motion';
+import { ProfileImage } from '../common/ProfileImage';
+
+export const Footer = () => {
+  return (
+    <motion.div
+      className="absolute bottom-12 left-1/2 transform -translate-x-1/2 text-center z-10 w-full"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      transition={{ delay: 1 }}
+    >
+      <p className="font-serif text-cream/60 mb-8">floating in this blissed space,</p>
+      
+      <motion.div
+        initial={{ scale: 0.9, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ delay: 1.2 }}
+        className="flex flex-col items-center space-y-4"
+      >
+        <div className="w-24 h-24 rounded-full overflow-hidden ring-4 ring-cream/30 shadow-xl">
+          <ProfileImage className="w-full h-full" />
+        </div>
+        <span className="font-serif text-xl text-cream/90">Rakshita</span>
+      </motion.div>
+    </motion.div>
+  );
+};

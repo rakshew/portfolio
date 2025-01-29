@@ -37,7 +37,7 @@ export const Hero = () => {
 
       {/* Footer Text */}
       <motion.div
-        className="absolute bottom-12 left-1/2 transform -translate-x-1/2 text-center font-serif text-cream/60"
+        className="absolute bottom-12 left-1/2 transform -translate-x-1/2 text-center font-serif text-charcoal dark:text-cream opacity-60"
         initial={{ opacity: 0 }}
         animate={{ opacity: 0.6 }}
         transition={{ delay: 1 }}

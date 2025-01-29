@@ -25,12 +25,12 @@ export const Hero = () => {
           className="max-w-3xl"
         >
           <h1 className="font-serif text-5xl md:text-7xl mb-6 leading-tight text-charcoal dark:text-cream">
-            The Liberal Arts,<br />
-            Tech,<br />
-            & Culture
+            <br />
+            <br />
+            
           </h1>
           <p className="text-lg md:text-xl max-w-2xl leading-relaxed mb-8 font-serif text-charcoal/90 dark:text-cream/90">
-            Exploring the intersection of technology and humanities through the lens of blockchain and decentralized systems.
+            
           </p>
         </motion.div>
       </div>

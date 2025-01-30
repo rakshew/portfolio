@@ -28,7 +28,7 @@ export const About = () => {
             On the road between smart contracts and ghazals, you'll find me — a Business Administration student who believes innovation meanders from the confluence of technology and human experience. When I'm not crafting marketing strategies or diving deep into Web3 protocols, you might catch me translating complex legal documents into human-readable prose (yes, really).
           </p>
           <p className="text-lg leading-relaxed mb-6 font-serif">
-            I move between the structured conduct of business development and the codified dynamism of decentralized systems, bringing both analytical precision and creative insight to every project. Here to make finance more fascinating and crypto less bewildering, one project at a time.
+            Here to make finance more fascinating and crypto less bewildering, one project at a time.
           </p>
           <p className="text-lg leading-relaxed mb-6 font-serif">
             Currently based in the best: Singapore.

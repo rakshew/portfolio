@@ -4,13 +4,13 @@ export const Articles = () => {
   const blogs = [
     {
       title: "Literature & Culture",
-      description: "literary sehnsucht? here's an open source water pump for poetry. Quenching my poetic thirst, circa 2021",
+      description: "literary sehnsucht? here's an open-source water pump for poetry. quenching my thirst, circa 2021",
       url: "https://kumizh.substack.com/welcome",
       type: "Literature Blog"
     },
     {
       title: "Technical Writing",
-      description: "a lemonade stand, but for simplified web3 analysis. soothing one another's fast paced anxieties",
+      description: "a lemonade stand by the highway, but offering paced-out web3 discourse",
       url: "https://mirror.xyz/0x832397b6B371905402F7aA50340dabD1f8Ebb656",
       type: "Technical Blog"
     }

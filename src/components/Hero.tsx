@@ -30,7 +30,7 @@ export const Hero = () => {
             & Culture
           </h1>
           <p className="text-lg md:text-xl max-w-2xl leading-relaxed mb-8 font-serif text-cream/90">
-            Exploring the intersection of technology and humanities through the lens of blockchain and decentralized systems.
+            Exploring the intersection of technology and humanities through the lens of decentralized systems.
           </p>
         </motion.div>
       </div>

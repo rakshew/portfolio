@@ -36,7 +36,7 @@ export const About = () => {
           <p className="text-lg leading-relaxed font-serif">
             P.S: While my journey isn't stored on a ledger (yet), you can download my resume{' '}
             <a 
-              href="https://drive.google.com/file/d/1-1yqbOB8seUVA1cMSSr5e5NA_fQRLiDV/view?usp=sharing"
+              href="https://drive.google.com/file/d/1LiQa8L1a51vRQnMVRx_eKsBiiVif7ILq/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-coral hover:text-opacity-80 transition-colors duration-300 underline"
